@@ -109,28 +109,6 @@ Currently, I’m focused on:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - Large Language Models (LLMs)
@@ -147,15 +125,15 @@ Currently, I’m focused on:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Govind99603">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/govind-suthar-chouhan/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:govindbsutharchouhan@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
