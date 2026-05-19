@@ -1,75 +1,170 @@
-# Hey there 👋
+<div align="center">
 
-I’m someone who genuinely enjoys building things with code — not just because technology is exciting, but because it solves real problems in surprisingly creative ways.
+# 👨‍💻 GOVIND SUTHAR
 
-Over the last few years, I’ve spent a lot of time exploring software development, machine learning, and modern web technologies. What started as curiosity slowly turned into a passion for creating projects that are both useful and meaningful. Some days I’m training machine learning models, other days I’m debugging frontend layouts at 2 AM with coffee beside me. That balance is honestly what makes tech fun.
+### Machine Learning Engineer • AI Engineer • Data Scientist • Data Analyst • LLM Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Engineer;Data+Scientist;Data+Analyst;LLM+Explorer;Always+Learning+New+Things" />
 
-## 💻 Technologies I Enjoy Working With
-
-One thing I love about programming is that every tool has its own personality and purpose. Here are a few technologies I regularly work with:
-
-- 🐍 **Python** — great for machine learning, automation, and data science  
-  *(The Python icon should link to the official Python website when clicked.)*
-
-- ⚡ **JavaScript** — the language that powers modern interactive web applications  
-  *(The JavaScript icon should redirect users to the official JavaScript documentation or website.)*
-
-- 🌐 **HTML5** & 🎨 **CSS3** — the foundation of everything on the web  
-  *(Each icon should open its official documentation page in a new tab.)*
-
-- ⚛️ **React** — one of my favorite libraries for building smooth user interfaces  
-  *(The React logo should link to the official React website.)*
-
-- 🧠 **TensorFlow** — useful for experimenting with machine learning and deep learning projects  
-  *(The TensorFlow icon should take users to TensorFlow’s official website.)*
-
-- 🐳 **Docker** — makes development and deployment much cleaner and easier  
-  *(The Docker icon should redirect to Docker’s official platform.)*
-
-- ☁️ **Git & GitHub** — because every project deserves version control and collaboration  
-  *(The GitHub icon should link to the official GitHub website.)*
-
-- 🗄️ **MySQL** & 🍃 **MongoDB** — depending on whether the project needs structured or flexible databases  
-  *(Each database icon should point to its official website.)*
+</div>
 
 ---
 
-## 🚀 What I Like Building
+## 👋 About Me
 
-I enjoy working on projects where software feels practical and impactful. A few areas I naturally gravitate toward include:
+Hey there! I'm **Govind**, a passionate fresher exploring the world of **Artificial Intelligence, Machine Learning, Data Science, and Large Language Models (LLMs)**.
 
-- Machine Learning & AI
-- Data Science projects
-- Web Applications
-- Automation tools
-- Backend APIs
-- Interactive dashboards
-- Real-world problem solving with code
+I may be at the beginning of my professional journey, but I genuinely enjoy building projects, solving problems with data, and continuously learning modern technologies. Most of my time goes into experimenting with machine learning models, improving coding skills, understanding AI systems, and working on real-world datasets.
 
-I’m especially interested in how AI can simplify everyday workflows and make technology more accessible to people who aren’t deeply technical.
+I believe being a fresher doesn’t mean lacking potential — it simply means being hungry to learn, improve, and grow every single day.
 
----
+Currently, I’m focused on:
 
-## 📚 My Learning Philosophy
-
-Technology changes fast, and honestly, that’s part of the excitement.
-
-I don’t believe anyone ever “masters” programming completely. There’s always a new framework, a better workflow, or a smarter way to solve a problem. So instead of trying to know everything, I focus on staying curious and building consistently.
-
-For me, learning works best through projects — breaking things, fixing them, improving them, and repeating the process.
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Data Analytics & Visualization
+- 🔍 Exploratory Data Analysis
+- 🗣️ NLP & LLM Applications
+- 📈 Predictive Modeling
+- 💻 Python Development
 
 ---
 
-## 🌍 Beyond Coding
+# 🛠️ Languages and Tools
 
-Outside of development, I enjoy exploring new ideas, watching tech content, and occasionally redesigning old projects just to see how much I’ve improved. I also appreciate clean UI design and the small details that make software feel polished and human.
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="55"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+</a>
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
+# 🚀 What I’m Working On
 
-If you enjoy talking about technology, AI, development, or creative ideas, feel free to connect. I’m always open to learning from others, collaborating on interesting projects, or simply having a good conversation about tech.
+- 📚 Learning advanced Machine Learning concepts
+- 🤖 Exploring Generative AI & LLMs
+- 📊 Building Data Analytics projects
+- 🧠 Improving Deep Learning skills
+- 🌐 Creating AI-powered applications
+- 📝 Practicing Data Structures & Problem Solving
 
-Thanks for stopping by ✨
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- LangChain
+- Deep Learning
+- NLP
+- MLOps
+- AI Agents
+- Data Engineering Basics
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Every expert was once a beginner.” ✨
+
+</div>
